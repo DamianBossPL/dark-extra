@@ -1,0 +1,35 @@
+{
+    "name": "dark-extra",
+    "displayName": "Dark Extra",
+    "description": "This dark theme makes vsCode EVEN Darker! The benefits of dark mode is that it will use up less energy (lights up less pixels), it is comfortable for your eyes (since it is less brighter) and it looks COOL!!",
+    "version": "1.0.0",
+    "publisher": "DamianBossPL",
+    "author": {
+        "name": "DamianBossPL",
+        "url": "https://www.youtube.com/channel/UCaNYpSKip39v4-7ZaOV-3_Q"
+    },
+    "icon": "images/icon/moon128.png",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],  
+    "keywords": [
+        "DamianBossPL",
+        "Dark Extra",
+        "dark theme",
+        "dark",
+        "night",
+        "power saver"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Extra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Extra-color-theme.json"
+            }
+        ]
+    }
+}
