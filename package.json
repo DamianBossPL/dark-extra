@@ -1,8 +1,12 @@
 {
     "name": "dark-extra",
     "displayName": "Dark Extra",
-    "description": "This dark theme makes vsCode EVEN Darker! The benefits of dark mode is that it will use up less energy (lights up less pixels), it is comfortable for your eyes (since it is less brighter) and it looks COOL!!",
+    "description": "Dark Mode Theme",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DamianBossPL/dark-extra"
+    },
     "publisher": "DamianBossPL",
     "author": {
         "name": "DamianBossPL",
